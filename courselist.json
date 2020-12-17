@@ -1,0 +1,21 @@
+{
+    "courses": [ {"id": 1,
+     "name": "Physics",
+     "Instructor": "Galileo" },
+     
+     {"id": 2,
+     "name": "Calculus",
+     "Instructor": "Newton"},
+    
+     {"id": 3,
+     "name": "Chemistry",
+     "Instructor": "Faraday"},
+    
+     {"id": 4,
+     "name": "Biology",
+     "Instructor": "Darwin"},
+    
+     {"id": 5,
+     "name": "Springboot",
+     "Instructor": "Abhi"}
+    ]}
